@@ -38,11 +38,12 @@ The generated Excel file will contain sample data and formatting based on the im
 ### License
 If you have a valid Syncfusion license, ensure that you have registered the license key as described in the "Usage" section. If you do not have a license, you can use the trial version of Syncfusion.XlsIO for testing and development purposes.
 
-Contributing
+### Contributing
 Contributions are welcome! If you have any improvements, bug fixes, or new features, feel free to submit a pull request.
 
-Issues
+### Issues
 If you encounter any issues or have any questions, please open an issue on the GitHub repository.
 
-Acknowledgments
+### Acknowledgments
+
 This project uses the Syncfusion.XlsIO library by Syncfusion for Excel file generation.
